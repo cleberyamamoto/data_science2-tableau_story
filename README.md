@@ -28,7 +28,7 @@ Comecei a criar um gráfico de barras no Tableau utilizando a dimensão "Survive
 
 Depois criei um gráfico de barras para identificar quantos sobreviventes haviam em cada classe de ticket. Notei que haviam muito mais sobreviventes dos passageiros da classe de ticket 1, da classe 2 estava bem equilibrado e a classe 3 sobreviveram menos de 1/3.
 
-Dividi a idade em grupos de faixa etária a cada 10 anos: 0 a 10, 11 a 20, 21 a 30, 31 a 40, 41 a 50, 51 a 60, 61 a 70 e 71 a 80.
+Dividi a idade em grupos de faixa etária a cada 10 anos: [0 a 10], [11 a 20], [21 a 30], [31 a 40], [41 a 50], [51 a 60], [61 a 70] e [71 a 80].
 
 Criei um gráfico de barras para identificar qual a faixa etária que mais tinha sobreviventes e a proporção de homens e mulheres em cada faixa etária.
 
@@ -36,7 +36,7 @@ Por fim, criei um gráfico de barras para comparar os sobreviventes de cada faix
 
 Criei uma história no Tableau baseado na sequência de criação dos gráficos para um grupo de WhatsApp de amigos. Dos 12 amigos, somente 2 responderam.
 
-A partir da respostas deles e revisão dos videos da Semana 8 
+A partir da respostas dos dois amigos e revisão dos videos do "curso da Udemy - Data Science II - Semana 8 - Princípios de design", deixei os gráficos bem mais limpos para serem visualizados e com destaques para melhor entendimento da história.
 
 
 
