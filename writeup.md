@@ -10,9 +10,10 @@ Projeto final do Nanodegree Data Science II da Udacity, utilizando dados de pass
 
 ## Resumo
 
-Análise dos sobreviventes do naufrágio do Titanic. Uma trágica história que ocorreu em 15 de Abril de 1912, quando o Titanic colidiu com um iceberg.
-Dos 2.224, contando passageiros e tripulação, 1.502 pessoas morreram.
-Os dados utilizados para esta análise de sobreviventes, são dados de treinamento do dataset do desafio do Kaggle.
+Análise do perfil de sobreviventes do naufrágio do Titanic. Uma trágica história que ocorreu em 15 de Abril de 1912, quando o Titanic colidiu com um iceberg. Dos 2.224, contando passageiros e tripulação, 1.502 pessoas morreram.
+Os dados utilizados para esta análise de sobreviventes, são os dados de treinamento do dataset do desafio do Kaggle, com apenas 891 registros.
+Os passageiros com idade entre 21 a 30 anos foram os que mais sobreviveram. Os passageiros que adquiriram tickets de classe 1 também foram os que mais sobreviveram. Mas, o perfil com maior índice de sobrevivência foram os passageiros de 31 a 40 anos de idade com ticket de classe 1. 
+
 
 
 
