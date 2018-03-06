@@ -12,7 +12,7 @@ Projeto final do Nanodegree Data Science II da Udacity, utilizando dados de pass
 
 Análise do perfil de sobreviventes do naufrágio do Titanic. Uma trágica história que ocorreu em 15 de Abril de 1912, quando o Titanic colidiu com um iceberg. Dos 2.224, contando passageiros e tripulação, 1.502 pessoas morreram.
 Os dados utilizados para esta análise de sobreviventes, são os dados de treinamento do dataset do desafio do Kaggle, com apenas 891 registros.
-Os passageiros com idade entre 21 a 30 anos foram os que mais sobreviveram. Os passageiros que adquiriram tickets de classe 1 também foram os que mais sobreviveram. Mas, o perfil com maior índice de sobrevivência foram os passageiros de 31 a 40 anos de idade com ticket de classe 1. 
+Os passageiros com idade entre 21 a 30 anos foram os que mais sobreviveram. Os passageiros que adquiriram tickets de classe 1 também foram os que mais sobreviveram. Mas, o perfil com maior índice de sobrevivência foram os passageiros de 0 a 10 anos de idade com ticket de classe 2, onde todos sobreviveram.
 
 
 
@@ -33,12 +33,13 @@ Dividi a idade em grupos de faixa etária a cada 10 anos: [0 a 10], [11 a 20], [
 
 Criei um gráfico de barras para identificar qual a faixa etária que mais tinha sobreviventes e a proporção de homens e mulheres em cada faixa etária.
 
-Por fim, criei um gráfico de barras para comparar os sobreviventes de cada faixa e classe de ticket. Identifiquei que haviam muito mais sobreviventes entre 31 a 40 anos que compraram ticket de primeira classe.
+Por fim, criei um gráfico de barras para comparar os sobreviventes de cada faixa e classe de ticket. 
 
 Criei uma história no Tableau baseado na sequência de criação dos gráficos para um grupo de WhatsApp de amigos. Dos 12 amigos, somente 2 responderam.
 
 A partir da respostas dos dois amigos e revisão dos videos do "curso da Udemy - Data Science II - Semana 8 - Princípios de design", deixei os gráficos bem mais limpos para serem visualizados e com destaques para melhor entendimento da história.
 
+Após 2 revisões do Time da Udacity, notei que havia uma diminuição na taxa de sobrevivência com o aumento da idade.
 
 
 
